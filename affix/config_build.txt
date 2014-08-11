@@ -1,0 +1,11 @@
+affix/*
+affix/components/*
+repy_v2/*
+seattlelib_v2/*
+clearinghouse/*
+dist/LICENSE.txt
+# Tests
+test affix/tests/*
+test repy_v2/testsV2/*
+test seattlelib_v2/*
+test clearinghouse/*
