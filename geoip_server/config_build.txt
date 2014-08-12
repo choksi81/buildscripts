@@ -1,0 +1,5 @@
+portability/*
+geoip_server/*
+dist/LICENSE.txt
+# Tests
+test portability/tests/*

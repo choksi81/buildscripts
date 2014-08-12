@@ -1,0 +1,4 @@
+https://github.com/SeattleTestbed/zenodotus
+https://github.com/SeattleTestbed/seattlelib_v1
+https://github.com/SeattleTestbed/repy_v1
+https://github.com/SeattleTestbed/dist -b new_build_v1
