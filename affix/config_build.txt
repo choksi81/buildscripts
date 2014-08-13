@@ -10,4 +10,3 @@ test affix/tests/*
 test repy_v2/testsV2/*
 test seattlelib_v2/*
 test clearinghouse/*
-test utf/tests/*

@@ -4,4 +4,3 @@ utf/*
 dist/LICENSE.txt
 # Tests
 test portability/tests/*
-test utf/tests/*

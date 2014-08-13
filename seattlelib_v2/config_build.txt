@@ -7,4 +7,3 @@ dist/LICENSE.txt
 test seattlelib_v2/tests/*
 test clearinghouse/tests/*
 test repy_v2/testsV2/*
-test utf/tests/*

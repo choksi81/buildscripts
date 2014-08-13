@@ -13,4 +13,3 @@ test repy_v2/testsV2/*
 test portability/tests/*
 test nodemanager/tests/*
 test softwareupdater/test/*
-test utf/tests/*
