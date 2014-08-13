@@ -1,6 +1,8 @@
 seattlelib_v1/*
 advertiseserver/*
+utf/*
 dist/LICENSE.txt
 # Tests
 test seattlelib_v1/tests/*
 test seattlelib_v1/test/*
+test utf/tests/*
